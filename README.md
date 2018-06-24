@@ -1,1 +1,1 @@
-# learning-git-2
+# https://ewamikula.github.io/learning-git-2/
