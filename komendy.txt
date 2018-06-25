@@ -1,2 +1,2 @@
 autoprefixer-cli -o style.prefixed.css style.css
-cli --formatter <index.html>
+cli index.html
