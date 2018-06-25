@@ -1,5 +1,3 @@
-.sass-cache
-
 # Logs
 logs
 *.log
@@ -73,4 +71,3 @@ typings/
 
 # Serverless directories
 .serverless
-© 2018 GitHub, Inc.
