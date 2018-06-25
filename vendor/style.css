@@ -1,0 +1,7 @@
+.container { max-width: 800px; font-family: 'Lato', sans-serif; padding: 20px 40px; background: black; }
+
+.container h2 { font-weight: 900; color: gray; }
+
+.container h3 { color: lightgray; }
+
+.container p { margin-bottom: 10px; color: white; }
