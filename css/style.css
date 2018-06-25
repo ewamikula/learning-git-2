@@ -1,13 +1,14 @@
-container {
+.container {
   max-width: 800px;
   font-family: 'Lato', sans-serif;
-  padding: 20px 40px; }
-  container h2 {
+  padding: 20px 40px;
+  background: gray; }
+  .container h2 {
     font-weight: 900;
     color: blue; }
-  container h3 {
+  .container h3 {
     color: gray; }
-  container p {
+  .container p {
     margin-bottom: 10px; }
 
 /*# sourceMappingURL=style.css.map */
